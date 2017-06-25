@@ -59,3 +59,8 @@ SDR0805
 LED’s
 ------
 WS2812B
+
+
+License
+------
+Creative Commons Attribution-ShareAlike 4.0 International: http://creativecommons.org/licenses/by-sa/4.0/
